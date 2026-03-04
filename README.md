@@ -11,7 +11,7 @@ WPF 기반 산업 장비 모니터링 데스크톱 애플리케이션입니다.
 
 ## 장비 등록 및 장비 제어
 
-![장비 등록 및 제어](images/input_start_stop.gif)
+![장비 등록 및 제어](input_start_stop.gif)
 
 장비를 등록하고 **Start / Stop 버튼**을 통해 장비 상태를 제어할 수 있습니다.
 
@@ -22,7 +22,7 @@ Running 상태에서는 **DispatcherTimer 기반 온도 시뮬레이션**이 동
 
 ## 장비 수정 및 삭제
 
-![장비 수정 및 삭제](images/delete_Update.gif)
+![장비 수정 및 삭제](delete_Update.gif)
 
 등록된 장비의 정보를 수정하거나 삭제할 수 있습니다.
 
@@ -30,7 +30,7 @@ Running 상태에서는 **DispatcherTimer 기반 온도 시뮬레이션**이 동
 
 ## 과열 경고 시스템
 
-![과열 경고](images/과열경고문.png)
+![과열 경고](과열경고문.png)
 
 장비 온도가 **85°C 이상**이 되면
 
