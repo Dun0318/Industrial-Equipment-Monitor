@@ -111,7 +111,7 @@ DispatcherTimer를 이용하여
 3초마다 장비 상태를 갱신합니다.
 
 ```csharp
-timer.Interval = TimeSpan.FromSeconds(1);
+timer.Interval = TimeSpan.FromSeconds(3);
 timer.Tick += Timer_Tick;
 ```
 
