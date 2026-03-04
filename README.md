@@ -108,7 +108,7 @@ UI (WPF)
 ## 실시간 온도 시뮬레이션
 
 DispatcherTimer를 이용하여  
-1초마다 장비 상태를 갱신합니다.
+3초마다 장비 상태를 갱신합니다.
 
 ```csharp
 timer.Interval = TimeSpan.FromSeconds(1);
